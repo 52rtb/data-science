@@ -31,9 +31,13 @@ mpld3算是matplotlib的一个扩展吧，我很喜欢这个包，也算是这�
 
 
 
-2. books
+2. books & courses
 
+- [Data Science / Harvard](http://cs109.github.io/2014/pages/schedule.html)
 
+```
+Topics: Data wrangling, data management, exploratory data analysis to generate hypotheses and intuition, prediction based on statistical methods such as regression and classification, communication of results through visualization, stories, and summaries.
+```
 
 3. posts & slides
 ---
@@ -71,5 +75,10 @@ http://nbviewer.ipython.org/github/Jay-Oh-eN/happy-healthy-hungry/blob/master/h3
 There are many useful resource about data science, and what is most excited is that there are so many examples in Ipython Notebook, which is really valuable.
 I will go through all the notebooks here, and put it one by one on this repo, bellow the 'examples' directory.
 ```
+- [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 
+```
+This is one of the most useful data like above, it not just focus on data science, but there are also many data related, high-quality Ipython Notebooks example,
+so it has lots of value for me. Also, I'll go through some of the notebooks in the repo and put it into this repo if needed.
+```
 
