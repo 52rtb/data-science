@@ -1,5 +1,17 @@
 # data-science
-my collection of data science related data
+This is my collection of data science related data, it's different from other personal collections, for each package, book, post, slides, examples and websites is not just an element of this collection, I go through every thing listed bellow, and for most of them, I'll write down my personal comment.
+
+My philosophy is that, if one can get what he need in one slide, then it's much wiser to get deep into that slide than download dozens of slides and put them in a well-organized directory.
+
+there is a nice saying: 
+
+*** The quieter you become, the more you are able to head. ***
+
+and I wanna say: 
+
+*** The deeper you go, the better you will become, inside out ***
+
+
 
 
 Contents
@@ -23,16 +35,23 @@ mpld3算是matplotlib的一个扩展吧，我很喜欢这个包，也算是这�
 
 
 
-3. posts
+3. posts & slides
 ---
 
-- McKinsey Report Highlights the Impending Data Scientist Shortage
-
-http://blog.pivotal.io/pivotal/news-2/mckinsey-report-highlights-the-impending-data-scientist-shortage
+- [McKinsey Report Highlights the Impending Data Scientist Shortage](http://blog.pivotal.io/pivotal/news-2/mckinsey-report-highlights-the-impending-data-scientist-shortage)
 
 ```
 A report that inllustrates the shortage of data scientist in America, and different industries' need for data scientists.
 ```
+
+- [airbnb-tech-talk-josh-wills-on-the-life-of-a-data-scientist](http://www.slideshare.net/naseemh/airbnb-tech-talk-josh-wills-on-the-life-of-a-data-scientist)
+
+And, I fully recommend this video, it's much more value if you wanna know the daily routine as a Data Scientist. [Gigs: A day in the life of a data scientist](https://www.youtube.com/watch?v=EaptTxhh6sM)
+
+```
+Actually, I didn't find too much about a data scientist's daily work. But I like the material in this slide.
+```
+
 
 4. examples
 ---
@@ -43,7 +62,14 @@ http://nbviewer.ipython.org/github/Jay-Oh-eN/happy-healthy-hungry/blob/master/h3
 
 
 
-5. websites
+5. websites & repos
 ---
+
+- [Learn Data Science](http://nborwankar.github.io/LearnDataScience/)
+
+```
+There are many useful resource about data science, and what is most excited is that there are so many examples in Ipython Notebook, which is really valuable.
+I will go through all the notebooks here, and put it one by one on this repo, bellow the 'examples' directory.
+```
 
 
