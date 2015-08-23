@@ -5,7 +5,7 @@ My philosophy is that, if one can get what he need in one slide, then it's much 
 
 there is a nice saying: 
 
-***The quieter you become, the more you are able to head.***
+***The quieter you become, the more you are able to hear.***
 
 and I wanna say: 
 
@@ -30,10 +30,11 @@ Do not tell others that your are a Python data scientist if you never touch thes
 - [seaborn](https://github.com/mwaskom/seaborn)
 - [mpld3](http://mpld3.github.io/quickstart.html)
 
-mpld3 is kind of an extention of matplotlit, I like it so much and it's easy enough to use. The kernel of this package is to converting the matplotlit graph object to a dict which can be used to build and html d3 graph.
+mpld3 is kind of an extention of matplotlib, I like it so much and it's easy enough to use. The kernel of this package is to converting the matplotlit graph object to a dict which can be used to build and html d3 graph.
 
 
 2. books & courses
+---
 
 - [Data Science / Harvard](http://cs109.github.io/2014/pages/schedule.html)
 
@@ -55,12 +56,12 @@ different industries' need for data scientists.
 
 - [airbnb-tech-talk-josh-wills-on-the-life-of-a-data-scientist](http://www.slideshare.net/naseemh/airbnb-tech-talk-josh-wills-on-the-life-of-a-data-scientist)
 
-And, I fully recommend this video, it's much more value if you wanna know the daily routine as a Data Scientist. [Gigs: A day in the life of a data scientist](https://www.youtube.com/watch?v=EaptTxhh6sM)
-
 ```
 Actually, I didn't find too much about a data scientist's daily work. 
 But I like the material in this slide.
 ```
+
+And, I fully recommend this video, it's much more value if you wanna know the daily routine as a Data Scientist. [Gigs: A day in the life of a data scientist](https://www.youtube.com/watch?v=EaptTxhh6sM)
 
 
 4. examples
