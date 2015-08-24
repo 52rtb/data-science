@@ -69,6 +69,13 @@ And, I fully recommend this video, it's much more value if you wanna know the da
 
 - [Happy Healthy Hungry -- San Francisco](http://nbviewer.ipython.org/github/Jay-Oh-eN/happy-healthy-hungry/blob/master/h3.ipynb)
 
+```
+An very awesome notebook build by <Zipfian Academy>, a data science training company, 
+it doesn't provide too much statistic and analytic work, but I really like it, 
+it will share you the method and step of figuring out a data science related problem, 
+and using matplotlib and pandas to build awesome graph, that's really fantastic. 
+Anyway, I like this example so much. 
+```
 
 
 5. websites & repos
@@ -95,6 +102,13 @@ the repo and put it into this repo if needed.
 
 ```
 A very simple tutorial on some most useful packages on Python data science.
+```
+
+- [data-science-blogs](https://github.com/rushter/data-science-blogs)
+
+```
+A github repo collecting some high quality data science related blogs or
+websites, really valuable.
 ```
 
 
