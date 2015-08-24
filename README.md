@@ -104,4 +104,11 @@ the repo and put it into this repo if needed.
 A very simple tutorial on some most useful packages on Python data science.
 ```
 
+- [data-science-blogs](https://github.com/rushter/data-science-blogs)
+
+```
+A github repo collecting some high quality data science related blogs or
+websites, really valuable.
+```
+
 
