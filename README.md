@@ -44,6 +44,19 @@ hypotheses and intuition, prediction based on statistical methods such as regres
 and classification, communication of results through visualization, stories, and summaries.
 ```
 
+- [Python for Data Analysis](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793)
+
+[github repo for this book](https://github.com/pydata/pydata-book)
+
+```
+I'm reading this book currently, not for it can provide some deep knowledge of data science, but I
+think it can help data science fresh man to accumulate more fundamental, basic conception of data science.
+And, it can be very helpful for people who don't know ipython, pandas and numpy and some useful packages
+and method for data science.
+```
+
+
+
 3. posts & slides
 ---
 
