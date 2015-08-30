@@ -76,6 +76,12 @@ But I like the material in this slide.
 
 And, I fully recommend this video, it's much more value if you wanna know the daily routine as a Data Scientist. [Gigs: A day in the life of a data scientist](https://www.youtube.com/watch?v=EaptTxhh6sM)
 
+- [choosing_a_good_chart](http://extremepresentation.typepad.com/blog/files/choosing_a_good_chart.pdf)
+
+```
+A very useful graph on how to choose an appropriate visulization type, I like it.
+```
+
 
 4. examples
 ---
