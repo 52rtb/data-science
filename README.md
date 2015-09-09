@@ -82,6 +82,12 @@ And, I fully recommend this video, it's much more value if you wanna know the da
 A very useful graph on how to choose an appropriate visulization type, I like it.
 ```
 
+- [Questions From Data Science Interviews](http://blog.udacity.com/2015/04/data-science-interview-questions.html)
+
+```
+A high quality article on talking about how to find a data scientist candidate from an interviewer's eye.
+```
+
 
 4. examples
 ---
@@ -99,6 +105,16 @@ Anyway, I like this example so much.
 
 5. websites & repos
 ---
+
+- [datascienceweekly](http://www.datascienceweekly.org/)
+
+```
+This is really an awesome blog, containing lots of high-quality resources for learning
+data science. It has three type of resource: blog, interview question and resources. Each
+of these three are good enough, and you can subscribe this website, it will send you an 
+email every week, that's very nice. Anyway, I fully recommend this site.
+```
+
 
 - [Learn Data Science](http://nborwankar.github.io/LearnDataScience/)
 
