@@ -88,6 +88,9 @@ A very useful graph on how to choose an appropriate visulization type, I like it
 A high quality article on talking about how to find a data scientist candidate from an interviewer's eye.
 ```
 
+- [Doing Data Science at Twitter](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6)
+
+
 
 4. examples
 ---
